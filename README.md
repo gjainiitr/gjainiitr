@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ebay Clone<br><br>👯 I’m looking to collaborate on anything free and open source<br><br>🌱 I’m currently learning Typescript and Next.js<br><br>👨‍💻 All of my projects are available at https://github.com/gjainiitr<br><br>💬 Ask me anything about C# and React<br><br>
+🔭 I’m currently working as a Full Time Software Engineer at Microsoft<br><br>👯 I’m looking to collaborate on anything free and open source<br><br>🌱 I’m currently learning Typescript and Next.js<br><br>👨‍💻 All of my projects are available at https://github.com/gjainiitr<br><br>💬 Ask me anything about C# and React<br><br>
 
 
 ## 🌐 Socials:
